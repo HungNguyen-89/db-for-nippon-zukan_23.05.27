@@ -1,6 +1,7 @@
 {
-  "de-thi": {
-    "choukuzen-taisaku-n2": {
+  "de-thi": [
+    {
+      "testNameEn": "choukuzen-taisaku-n2",
       "testName": "日本語能力試験直前対策N2",
       "testContents": [
         {
@@ -181,7 +182,8 @@
         }
       ]
     },
-    "power-drill-vocabulary-n2": {
+    {
+      "testNameEn": "power-drill-vocabulary-n2",
       "testName": "日本語パワードリルN2文字・語彙",
       "testContents": [
         {
@@ -333,5 +335,5 @@
         }
       ]
     }
-  }
+  ]
 }
