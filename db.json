@@ -3,10 +3,11 @@
     {
       "testNameEn": "choukuzen-taisaku-n2",
       "testName": "日本語能力試験直前対策N2",
-      "testContents": [
+      "testContents": 
         {
           "testSerial": "TEST1",
           "category": "Test",
+          "testSerialNameEn": "de-thi-choukuzen-taisaku-n2-part1",
           "testQuestionAll": [
             {
               "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
@@ -180,7 +181,7 @@
             }
           ]
         }
-      ]
+      
     },
     {
       "testNameEn": "power-drill-vocabulary-n2",
