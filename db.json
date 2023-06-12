@@ -1,151 +1,134 @@
 {
-  "power-drill-vocabulary-n2": {
-    "testName": "日本語能力試験模擬と対策",
-    "testContents": [
-      {
-        "id": 1,
-        "testSerial": "TEST1",
-        "category": "Test",
-        "testQuestionAll": [
-          {
-            "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-            "testQuestions": [
-              {
-                "question": "私は速くから彼女が働く姿を見ていた。",
-                "answer": 2,
-                "answerToChoose": ["すかた", "すがた", "すはた", "すはだ"]
-              },
-              {
-                "question": "スポーツをする時は、ときどき水分を補ったほうがいい。",
-                "answer": 4,
-                "answerToChoose": [
-                  "とった",
-                  "あたった",
-                  "たもった",
-                  "おぎなった"
-                ]
-              },
-              {
-                "question": "3人に1人の割合で、その試験に合格している。",
-                "answer": 3,
-                "answerToChoose": [
-                  "かつあい",
-                  "かっごう",
-                  "わりあい",
-                  "わりごう"
-                ]
-              }
-            ]
-          },
-          {
-            "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-            "testQuestions": [
-              {
-                "question": "では、明日の３時にそちらにうかがいます。",
-                "answer": 3,
-                "answerToChoose": [
-                  "司います",
-                  "何います",
-                  "伺います",
-                  "荷います"
-                ]
-              },
-              {
-                "question": "最近はれいぎを知らない人が多いように思う。",
-                "answer": 2,
-                "answerToChoose": ["礼義", "礼儀", "礼議", "礼偽"]
-              },
-              {
-                "question": "しゅういに迷惑がかからないように、静かに話してください。",
-                "answer": 2,
-                "answerToChoose": ["周固", "周囲", "週固", "週囲"]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "testSerial": "TEST2",
-        "category": "Test",
-        "testQuestionAll": [
-          {
-            "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-            "testQuestions": [
-              {
-                "question": "台風が関東地方に接近しているそうだ。",
-                "answer": 4,
-                "answerToChoose": ["せきん", "せいきん", "せつきん", "せっきん"]
-              },
-              {
-                "question": "それでは、来月の中旬にまたご連絡します。",
-                "answer": 4,
-                "answerToChoose": [
-                  "なかば",
-                  "なかごろ",
-                  "ちゅうかん",
-                  "ちゅうじゅん"
-                ]
-              },
-              {
-                "question": "病気やけがに備えて、保険に入っておいたほうがいい。",
-                "answer": 2,
-                "answerToChoose": [
-                  "ささえて",
-                  "そなえて",
-                  "そろえて",
-                  "ひかえて"
-                ]
-              }
-            ]
-          },
-          {
-            "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
-            "testQuestions": [
-              {
-                "question": "すみません、このあたりに銀行はありませんか。",
-                "answer": 3,
-                "answerToChoose": ["当り", "周り", "辺り", "返り"]
-              },
-              {
-                "question": "家庭のため、父はけんめいに働いた。",
-                "answer": 4,
-                "answerToChoose": ["賢名", "賢命", "懸名", "懸命"]
-              },
-              {
-                "question": "その町のチームが勝って、観客はとてもよろこんでいた。",
-                "answer": 2,
-                "answerToChoose": ["喜で", "喜んで", "喜こんで", "喜ろこんで"]
-              }
-            ]
-          },
-          {
-            "testQuestionTitle": "問題３.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
-            "testQuestions": [
-              {
-                "question": "1時間も遅れてきたのに謝らない友達に（　　　　　）が立った。",
-                "answer": 3,
-                "answerToChoose": ["足", "心", "腹", "頭"]
-              },
-              {
-                "question": "その話は本当だ。（　　　　　）私はその事故を見たのだから。",
-                "answer": 2,
-                "answerToChoose": ["いまに", "げんに", "じつに", "まさに"]
-              },
-              {
-                "question": "（　　　　　）を使ってみて、とてもよかったので、この洗剤を買うことにした。",
-                "answer": 3,
-                "answerToChoose": [
-                  "リスト",
-                  "カタログ",
-                  "サンプル",
-                  "パンフレット"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "power-drill-vocabulary-n2": [
+    {
+      "id": 1,
+      "testSerial": "TEST1",
+      "category": "Test",
+      "testQuestionAll": [
+        {
+          "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question": "私は速くから彼女が働く姿を見ていた。",
+              "answer": 2,
+              "answerToChoose": ["すかた", "すがた", "すはた", "すはだ"]
+            },
+            {
+              "question": "スポーツをする時は、ときどき水分を補ったほうがいい。",
+              "answer": 4,
+              "answerToChoose": ["とった", "あたった", "たもった", "おぎなった"]
+            },
+            {
+              "question": "3人に1人の割合で、その試験に合格している。",
+              "answer": 3,
+              "answerToChoose": ["かつあい", "かっごう", "わりあい", "わりごう"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question": "では、明日の３時にそちらにうかがいます。",
+              "answer": 3,
+              "answerToChoose": ["司います", "何います", "伺います", "荷います"]
+            },
+            {
+              "question": "最近はれいぎを知らない人が多いように思う。",
+              "answer": 2,
+              "answerToChoose": ["礼義", "礼儀", "礼議", "礼偽"]
+            },
+            {
+              "question": "しゅういに迷惑がかからないように、静かに話してください。",
+              "answer": 2,
+              "answerToChoose": ["周固", "周囲", "週固", "週囲"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "testSerial": "TEST2",
+      "category": "Test",
+      "testQuestionAll": [
+        {
+          "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question": "台風が関東地方に接近しているそうだ。",
+              "answer": 4,
+              "answerToChoose": ["せきん", "せいきん", "せつきん", "せっきん"]
+            },
+            {
+              "question": "それでは、来月の中旬にまたご連絡します。",
+              "answer": 4,
+              "answerToChoose": [
+                "なかば",
+                "なかごろ",
+                "ちゅうかん",
+                "ちゅうじゅん"
+              ]
+            },
+            {
+              "question": "病気やけがに備えて、保険に入っておいたほうがいい。",
+              "answer": 2,
+              "answerToChoose": ["ささえて", "そなえて", "そろえて", "ひかえて"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question": "すみません、このあたりに銀行はありませんか。",
+              "answer": 3,
+              "answerToChoose": ["当り", "周り", "辺り", "返り"]
+            },
+            {
+              "question": "家庭のため、父はけんめいに働いた。",
+              "answer": 4,
+              "answerToChoose": ["賢名", "賢命", "懸名", "懸命"]
+            },
+            {
+              "question": "その町のチームが勝って、観客はとてもよろこんでいた。",
+              "answer": 2,
+              "answerToChoose": ["喜で", "喜んで", "喜こんで", "喜ろこんで"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題３.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question": "1時間も遅れてきたのに謝らない友達に（　　　　　）が立った。",
+              "answer": 3,
+              "answerToChoose": ["足", "心", "腹", "頭"]
+            },
+            {
+              "question": "その話は本当だ。（　　　　　）私はその事故を見たのだから。",
+              "answer": 2,
+              "answerToChoose": ["いまに", "げんに", "じつに", "まさに"]
+            },
+            {
+              "question": "（　　　　　）を使ってみて、とてもよかったので、この洗剤を買うことにした。",
+              "answer": 3,
+              "answerToChoose": [
+                "リスト",
+                "カタログ",
+                "サンプル",
+                "パンフレット"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "testName": "日本語能力試験模擬と対策",
+      "testData": ["PART 1", "PART 2", "PART 3", "PART 4", "PART 5"]
+    }
+  ]
 }
