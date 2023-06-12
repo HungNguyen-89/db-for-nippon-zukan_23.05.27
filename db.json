@@ -127,6 +127,7 @@
   ],
   "test": [
     {
+      "id":"power-drill-vocabulary-n2",
       "testName": "日本語能力試験模擬と対策",
       "testData": ["PART 1", "PART 2", "PART 3", "PART 4", "PART 5"]
     }
