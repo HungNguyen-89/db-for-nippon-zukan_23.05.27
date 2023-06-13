@@ -1,7 +1,7 @@
 {
   "power-drill-vocabulary-n2": [
     {
-      "id": 1,
+      "id": "part-1",
       "testSerial": "TEST1",
       "category": "Test",
       "testQuestionAll": [
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "part-2",
       "testSerial": "TEST2",
       "category": "Test",
       "testQuestionAll": [
