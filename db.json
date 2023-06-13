@@ -6,7 +6,6 @@
       "category": "Test",
       "testQuestionAll": [
         {
-          "id": 88888,
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
@@ -130,20 +129,12 @@
     {
       "id": "power-drill-vocabulary-n2",
       "testName": "日本語能力試験模擬と対策",
-      "testData": ["PART 1", "PART 2", "PART 3", "PART 4", "PART 5"]
-    },
-    {
-      "id": 123,
-      "testName": "日本語能力試験模擬と対策",
       "testData": [
-        {
-          "id": 8,
-          "test": "a"
-        },
-        {
-          "id":9,
-          "test": "b"
-        }
+        { "id": "part-1", "name": "PART 1" },
+        { "id": "part-2", "name": "PART 2" },
+        { "id": "part-3", "name": "PART 3" },
+        { "id": "part-4", "name": "PART 4" },
+        { "id": "part-5", "name": "PART 5" }
       ]
     }
   ]
