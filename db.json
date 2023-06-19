@@ -9,7 +9,7 @@
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "私は速くから彼女が働く <span style={{ color: 'blue' }}>姿</span>を見ていた。",
+              "question": " <span> 私は速くから彼女が働く<span style={{ color: 'blue' }}>姿</span> を見ていた</span>",
               "answer": 2,
               "answerToChoose": ["すかた", "すがた", "すはた", "すはだ"]
             },
