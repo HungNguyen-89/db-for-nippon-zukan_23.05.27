@@ -9,17 +9,17 @@
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "私は速くから彼女が働く姿を見ていた。",
+              "question": "私は速くから彼女が働く <span style={{ color: blue }}>姿</span>を見ていた。",
               "answer": 2,
               "answerToChoose": ["すかた", "すがた", "すはた", "すはだ"]
             },
             {
-              "question": "スポーツをする時は、ときどき水分を補ったほうがいい。",
+              "question": "スポーツをする時は、ときどき水分を<span style={{ color: blue }}>補った</span>ほうがいい。",
               "answer": 4,
               "answerToChoose": ["とった", "あたった", "たもった", "おぎなった"]
             },
             {
-              "question": "3人に1人の割合で、その試験に合格している。",
+              "question": "3人に1人の<span style={{ color: blue }}>割合</span>で、その試験に合格している。",
               "answer": 3,
               "answerToChoose": ["かつあい", "かっごう", "わりあい", "わりごう"]
             }
@@ -56,12 +56,12 @@
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "台風が関東地方に接近しているそうだ。",
+              "question": "台風が関東地方に<span style={{ color: blue }}>接近</span>しているそうだ。",
               "answer": 4,
               "answerToChoose": ["せきん", "せいきん", "せつきん", "せっきん"]
             },
             {
-              "question": "それでは、来月の中旬にまたご連絡します。",
+              "question": "それでは、来月の<span style={{ color: blue }}>中旬</span>にまたご連絡します。",
               "answer": 4,
               "answerToChoose": [
                 "なかば",
@@ -71,7 +71,7 @@
               ]
             },
             {
-              "question": "病気やけがに備えて、保険に入っておいたほうがいい。",
+              "question": "病気やけがに<span style={{ color: blue }}>備えて</span>、保険に入っておいたほうがいい。",
               "answer": 2,
               "answerToChoose": ["ささえて", "そなえて", "そろえて", "ひかえて"]
             }
@@ -81,17 +81,17 @@
           "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "すみません、このあたりに銀行はありませんか。",
+              "question": "すみません、この<span style={{ color: blue }}>あたり</span>に銀行はありませんか。",
               "answer": 3,
               "answerToChoose": ["当り", "周り", "辺り", "返り"]
             },
             {
-              "question": "家庭のため、父はけんめいに働いた。",
+              "question": "家庭のため、父は<span style={{ color: blue }}>けんめい</span>に働いた。",
               "answer": 4,
               "answerToChoose": ["賢名", "賢命", "懸名", "懸命"]
             },
             {
-              "question": "その町のチームが勝って、観客はとてもよろこんでいた。",
+              "question": "その町のチームが勝って、観客はとても<span style={{ color: blue }}>よろこんで</span>いた。",
               "answer": 2,
               "answerToChoose": ["喜で", "喜んで", "喜こんで", "喜ろこんで"]
             }
