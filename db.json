@@ -10,23 +10,23 @@
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question-1": "私は速くから彼女が働く<span style={{ color: 'blue' }}>姿</span> を見ていた",
-              "question-2": "姿",
-              "question-3": "を見ていた",
+              "question1": "私は速くから彼女が働く<span style={{ color: 'blue' }}>姿</span> を見ていた",
+              "question2": "姿",
+              "question3": "を見ていた",
               "answer": 2,
               "answerToChoose": ["すかた", "すがた", "すはた", "すはだ"]
             },
             {
-              "question-1": "スポーツをする時は、ときどき水分を",
-              "question-2": "補った",
-              "question-3": "ほうがいい。",
+              "question1": "スポーツをする時は、ときどき水分を",
+              "question2": "補った",
+              "question3": "ほうがいい。",
               "answer": 4,
               "answerToChoose": ["とった", "あたった", "たもった", "おぎなった"]
             },
             {
-              "question-1": "3人に1人の",
-              "question-2": "割合",
-              "question-3": "で、その試験に合格している。",
+              "question1": "3人に1人の",
+              "question2": "割合",
+              "question3": "で、その試験に合格している。",
               "answer": 3,
               "answerToChoose": ["かつあい", "かっごう", "わりあい", "わりごう"]
             }
@@ -36,23 +36,23 @@
           "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question-1": "では、明日の３時にそちらに",
-              "question-2": "うかがいます",
-              "question-3": "。",
+              "question1": "では、明日の３時にそちらに",
+              "question2": "うかがいます",
+              "question3": "。",
               "answer": 3,
               "answerToChoose": ["司います", "何います", "伺います", "荷います"]
             },
             {
-              "question-1": "最近は",
-              "question-2": "れいぎ",
-              "question-3": "を知らない人が多いように思う。",
+              "question1": "最近は",
+              "question2": "れいぎ",
+              "question3": "を知らない人が多いように思う。",
               "answer": 2,
               "answerToChoose": ["礼義", "礼儀", "礼議", "礼偽"]
             },
             {
-              "question-1": "しゅうい",
-              "question-2": "に迷惑がかからないように、静かに話してください。",
-              "question-3": "",
+              "question1": "しゅうい",
+              "question2": "に迷惑がかからないように、静かに話してください。",
+              "question3": "",
               "answer": 2,
               "answerToChoose": ["周固", "周囲", "週固", "週囲"]
             }
@@ -71,15 +71,15 @@
           "testQuestions": [
             {
               "question": "台風が関東地方に",
-              "question-2": "接近",
-              "question-3": "しているそうだ。",
+              "question2": "接近",
+              "question3": "しているそうだ。",
               "answer": 4,
               "answerToChoose": ["せきん", "せいきん", "せつきん", "せっきん"]
             },
             {
-              "question-1": "それでは、来月の",
-              "question-2": "中旬",
-              "question-3": "にまたご連絡します。",
+              "question1": "それでは、来月の",
+              "question2": "中旬",
+              "question3": "にまたご連絡します。",
               "answer": 4,
               "answerToChoose": [
                 "なかば",
@@ -89,9 +89,9 @@
               ]
             },
             {
-              "question-1": "病気やけがに",
-              "question-2": "備えて",
-              "question-3": "、保険に入っておいたほうがいい。",
+              "question1": "病気やけがに",
+              "question2": "備えて",
+              "question3": "、保険に入っておいたほうがいい。",
               "answer": 2,
               "answerToChoose": ["ささえて", "そなえて", "そろえて", "ひかえて"]
             }
@@ -101,23 +101,23 @@
           "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question-1": "すみません、この",
-              "question-2": "あたり",
-              "question-3": "に銀行はありませんか。",
+              "question1": "すみません、この",
+              "question2": "あたり",
+              "question3": "に銀行はありませんか。",
               "answer": 3,
               "answerToChoose": ["当り", "周り", "辺り", "返り"]
             },
             {
-              "question-1": "家庭のため、父は",
-              "question-2": "けんめい",
-              "question-3": "に働いた。",
+              "question1": "家庭のため、父は",
+              "question2": "けんめい",
+              "question3": "に働いた。",
               "answer": 4,
               "answerToChoose": ["賢名", "賢命", "懸名", "懸命"]
             },
             {
               "question": "その町のチームが勝って、観客はとても",
-              "question-2": "よろこんで",
-              "question-3": "いた。",
+              "question2": "よろこんで",
+              "question3": "いた。",
               "answer": 2,
               "answerToChoose": ["喜で", "喜んで", "喜こんで", "喜ろこんで"]
             }
@@ -127,23 +127,23 @@
           "testQuestionTitle": "問題３.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question-1": "1時間も遅れてきたのに謝らない友達に（　　　　　）が立った。",
-              "question-2":"",
-              "question-3":"",
+              "question1": "1時間も遅れてきたのに謝らない友達に（　　　　　）が立った。",
+              "question2":"",
+              "question3":"",
               "answer": 3,
               "answerToChoose": ["足", "心", "腹", "頭"]
             },
             {
-              "question-1": "その話は本当だ。（　　　　　）私はその事故を見たのだから。",
-              "question-2":"",
-              "question-3":"",
+              "question1": "その話は本当だ。（　　　　　）私はその事故を見たのだから。",
+              "question2":"",
+              "question3":"",
               "answer": 2,
               "answerToChoose": ["いまに", "げんに", "じつに", "まさに"]
             },
             {
-              "question-1": "（　　　　　）を使ってみて、とてもよかったので、この洗剤を買うことにした。",
-              "question-2":"",
-              "question-3":"",
+              "question1": "（　　　　　）を使ってみて、とてもよかったので、この洗剤を買うことにした。",
+              "question2":"",
+              "question3":"",
               "answer": 3,
               "answerToChoose": [
                 "リスト",
