@@ -2,6 +2,7 @@
   "power-drill-vocabulary-n2": [
     {
       "id": "part-1",
+      "testName": "パワードリル文字・語彙",
       "testSerial": "TEST1",
       "category": "Test",
       "testQuestionAll": [
@@ -9,17 +10,23 @@
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": " 私は速くから彼女が働く<span style={{ color: 'blue' }}>姿</span> を見ていた",
+              "question-1": "私は速くから彼女が働く<span style={{ color: 'blue' }}>姿</span> を見ていた",
+              "question-2": "姿",
+              "question-3": "を見ていた",
               "answer": 2,
               "answerToChoose": ["すかた", "すがた", "すはた", "すはだ"]
             },
             {
-              "question": "スポーツをする時は、ときどき水分を<span style={{ color: 'blue' }}>補った</span>ほうがいい。",
+              "question-1": "スポーツをする時は、ときどき水分を",
+              "question-2": "補った",
+              "question-3": "ほうがいい。",
               "answer": 4,
               "answerToChoose": ["とった", "あたった", "たもった", "おぎなった"]
             },
             {
-              "question": "3人に1人の<span style={{ color: 'blue' }}>割合</span>で、その試験に合格している。",
+              "question-1": "3人に1人の",
+              "question-2": "割合",
+              "question-3": "で、その試験に合格している。",
               "answer": 3,
               "answerToChoose": ["かつあい", "かっごう", "わりあい", "わりごう"]
             }
@@ -29,17 +36,23 @@
           "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "では、明日の３時にそちらにうかがいます。",
+              "question-1": "では、明日の３時にそちらに",
+              "question-2": "うかがいます",
+              "question-3": "。",
               "answer": 3,
               "answerToChoose": ["司います", "何います", "伺います", "荷います"]
             },
             {
-              "question": "最近はれいぎを知らない人が多いように思う。",
+              "question-1": "最近は",
+              "question-2": "れいぎ",
+              "question-3": "を知らない人が多いように思う。",
               "answer": 2,
               "answerToChoose": ["礼義", "礼儀", "礼議", "礼偽"]
             },
             {
-              "question": "しゅういに迷惑がかからないように、静かに話してください。",
+              "question-1": "しゅうい",
+              "question-2": "に迷惑がかからないように、静かに話してください。",
+              "question-3": "",
               "answer": 2,
               "answerToChoose": ["周固", "周囲", "週固", "週囲"]
             }
@@ -49,6 +62,7 @@
     },
     {
       "id": "part-2",
+      "testName": "パワードリル文字・語彙",
       "testSerial": "TEST2",
       "category": "Test",
       "testQuestionAll": [
@@ -56,12 +70,16 @@
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "台風が関東地方に<span style={{ color: 'blue' }}>接近</span>しているそうだ。",
+              "question": "台風が関東地方に",
+              "question-2": "接近",
+              "question-3": "しているそうだ。",
               "answer": 4,
               "answerToChoose": ["せきん", "せいきん", "せつきん", "せっきん"]
             },
             {
-              "question": "それでは、来月の<span style={{ color: 'blue' }}>中旬</span>にまたご連絡します。",
+              "question-1": "それでは、来月の",
+              "question-2": "中旬",
+              "question-3": "にまたご連絡します。",
               "answer": 4,
               "answerToChoose": [
                 "なかば",
@@ -71,7 +89,9 @@
               ]
             },
             {
-              "question": "病気やけがに<span style={{ color: 'blue' }}>備えて</span>、保険に入っておいたほうがいい。",
+              "question-1": "病気やけがに",
+              "question-2": "備えて",
+              "question-3": "、保険に入っておいたほうがいい。",
               "answer": 2,
               "answerToChoose": ["ささえて", "そなえて", "そろえて", "ひかえて"]
             }
@@ -81,17 +101,23 @@
           "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "すみません、この<span style={{ color: 'blue' }}>あたり</span>に銀行はありませんか。",
+              "question-1": "すみません、この",
+              "question-2": "あたり",
+              "question-3": "に銀行はありませんか。",
               "answer": 3,
               "answerToChoose": ["当り", "周り", "辺り", "返り"]
             },
             {
-              "question": "家庭のため、父は<span style={{ color: 'blue' }}>けんめい</span>に働いた。",
+              "question-1": "家庭のため、父は",
+              "question-2": "けんめい",
+              "question-3": "に働いた。",
               "answer": 4,
               "answerToChoose": ["賢名", "賢命", "懸名", "懸命"]
             },
             {
-              "question": "その町のチームが勝って、観客はとても<span style={{ color: 'blue' }}>よろこんで</span>いた。",
+              "question": "その町のチームが勝って、観客はとても",
+              "question-2": "よろこんで",
+              "question-3": "いた。",
               "answer": 2,
               "answerToChoose": ["喜で", "喜んで", "喜こんで", "喜ろこんで"]
             }
@@ -101,17 +127,23 @@
           "testQuestionTitle": "問題３.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question": "1時間も遅れてきたのに謝らない友達に（　　　　　）が立った。",
+              "question-1": "1時間も遅れてきたのに謝らない友達に（　　　　　）が立った。",
+              "question-2":"",
+              "question-3":"",
               "answer": 3,
               "answerToChoose": ["足", "心", "腹", "頭"]
             },
             {
-              "question": "その話は本当だ。（　　　　　）私はその事故を見たのだから。",
+              "question-1": "その話は本当だ。（　　　　　）私はその事故を見たのだから。",
+              "question-2":"",
+              "question-3":"",
               "answer": 2,
               "answerToChoose": ["いまに", "げんに", "じつに", "まさに"]
             },
             {
-              "question": "（　　　　　）を使ってみて、とてもよかったので、この洗剤を買うことにした。",
+              "question-1": "（　　　　　）を使ってみて、とてもよかったので、この洗剤を買うことにした。",
+              "question-2":"",
+              "question-3":"",
               "answer": 3,
               "answerToChoose": [
                 "リスト",
@@ -131,10 +163,7 @@
       "testName": "日本語能力試験模擬と対策",
       "testData": [
         { "id": "part-1", "name": "PART 1" },
-        { "id": "part-2", "name": "PART 2" },
-        { "id": "part-3", "name": "PART 3" },
-        { "id": "part-4", "name": "PART 4" },
-        { "id": "part-5", "name": "PART 5" }
+        { "id": "part-2", "name": "PART 2" }
       ]
     }
   ]
