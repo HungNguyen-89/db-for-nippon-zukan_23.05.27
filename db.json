@@ -3,14 +3,14 @@
     {
       "id": "part-1",
       "testName": "パワードリル文字・語彙",
-      "testSerial": "TEST1",
+      "testSerial": "PART 1",
       "category": "Test",
       "testQuestionAll": [
         {
           "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
-              "question1": "私は速くから彼女が働く<span style={{ color: 'blue' }}>姿</span> を見ていた",
+              "question1": "私は速くから彼女が働く",
               "question2": "姿",
               "question3": "を見ていた",
               "answer": 2,
@@ -50,9 +50,9 @@
               "answerToChoose": ["礼義", "礼儀", "礼議", "礼偽"]
             },
             {
-              "question1": "しゅうい",
-              "question2": "に迷惑がかからないように、静かに話してください。",
-              "question3": "",
+              "question1": "",
+              "question2": "しゅうい",
+              "question3": "に迷惑がかからないように、静かに話してください。",
               "answer": 2,
               "answerToChoose": ["周固", "周囲", "週固", "週囲"]
             }
@@ -63,7 +63,7 @@
     {
       "id": "part-2",
       "testName": "パワードリル文字・語彙",
-      "testSerial": "TEST2",
+      "testSerial": "PART 2",
       "category": "Test",
       "testQuestionAll": [
         {
