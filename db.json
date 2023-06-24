@@ -250,35 +250,35 @@
           "category": "Test",
           "modules": 20,
           "link": "/",
-          "img": "../../assets/ExamPage/course-2.png"
+          "img": "https://www.bonjinsha.com/images/goods/s/487217768.jpeg?1667627507"
         },
         {
           "name": "日本語能力試験直前対策",
           "category": "Test",
           "modules": 15,
           "link": "/",
-          "img": "../../assets/ExamPage/course-2.png"
+          "img": "https://images-fe.ssl-images-amazon.com/images/I/91+Q9oJdyIL._AC_UL600_SR600,600_.jpg"
         },
         {
           "name": "合格できる日本語能力試験",
           "category": "Test",
           "modules": 15,
           "link": "/",
-          "img": "../../assets/ExamPage/course-2.png"
+          "img": "https://m.media-amazon.com/images/I/81ryfZJFVqL._AC_UF1000,1000_QL80_.jpg"
         },
         {
           "name": "TRY！日本語N2達",
           "category": "Test",
           "modules": 15,
           "link": "/",
-          "img": "../../assets/ExamPage/course-3.png"
+          "img": "https://m.media-amazon.com/images/I/515XEcr5PgL._AC_UF1000,1000_QL80_.jpg"
         },
         {
           "name": "日本語能力試験模擬と対策",
           "category": "Test",
           "modules": 15,
           "link": "/",
-          "img": "../../assets/ExamPage/course-1.png"
+          "img": "https://img.hmv.co.jp/image/jacket/800/67/2/7/564.jpg"
         }
       ]
     },
