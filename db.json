@@ -2,6 +2,7 @@
   "power-drill-vocabulary-n2": [
     {
       "id": "part-1",
+      "link": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
       "testSerial": "PART 1",
       "category": "Test",
@@ -92,6 +93,7 @@
     },
     {
       "id": "part-2",
+      "link": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
       "testSerial": "PART 2",
       "category": "Test",
