@@ -4,7 +4,7 @@
       "id": "part-1",
       "link": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
-      "testSerial": "PART 1",
+      "testSerial": "第1回",
       "category": "Test",
       "testQuestionAll": [
         {
@@ -65,7 +65,7 @@
       "id": "part-2",
       "link": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
-      "testSerial": "PART 2",
+      "testSerial": "第2回",
       "category": "Test",
       "testQuestionAll": [
         {
@@ -165,17 +165,17 @@
   "test": [
     {
       "id": "power-drill-vocabulary-n2",
-      "testName": "日本語能力試験模擬と対策",
+      "testName": "パワードリル文字・語彙",
       "testData": [
         {
           "link": "power-drill-vocabulary-n2",
           "id": "part-1",
-          "name": "PART 1"
+          "name": "第１回"
         },
         {
           "link": "power-drill-vocabulary-n2",
           "id": "part-2",
-          "name": "PART 2"
+          "name": "第2回"
         }
       ]
     }
