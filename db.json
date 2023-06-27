@@ -4,7 +4,7 @@
       "id": "part-1",
       "link": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
-      "testSerial": "第1回",
+      "testSerial": "第１回",
       "category": "Test",
       "testQuestionAll": [
         {
@@ -65,7 +65,7 @@
       "id": "part-2",
       "link": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
-      "testSerial": "第2回",
+      "testSerial": "第２回",
       "category": "Test",
       "testQuestionAll": [
         {
@@ -175,7 +175,7 @@
         {
           "link": "power-drill-vocabulary-n2",
           "id": "part-2",
-          "name": "第2回"
+          "name": "第２回"
         }
       ]
     }
