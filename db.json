@@ -162,6 +162,514 @@
       ]
     }
   ],
+  "choukuzen-taisaku-n2": [
+    {
+      "id": "part-1",
+      "link": "choukuzen-taisaku-n2",
+      "testName": "日本語能力試験直前対策",
+      "testSerial": "第１回",
+      "category": "Test",
+      "testQuestionAll": [
+        {
+          "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "彼女は子供のとき、",
+              "question2": "行儀",
+              "question3": "作法を家庭で厳しく教え込まれた。",
+              "answer": 3,
+              "answerToChoose": ["こうぎ", "こうき", "ぎょうぎ", "ぎょうき"]
+            },
+            {
+              "question1": "国際コンクールでの優勝は、若い音楽家の人生を",
+              "question2": "一瞬",
+              "question3": "にして変えた。",
+              "answer": 4,
+              "answerToChoose": [
+                "いちしゅん",
+                "いつしゅん",
+                "いっじゅん",
+                "いっしゅん"
+              ]
+            },
+            {
+              "question1": "「残りわずか」の声に",
+              "question2": "誘われて",
+              "question3": "、思わずテレビショッピングで買い物を」してしまった。",
+              "answer": 1,
+              "answerToChoose": [
+                "さそわれて",
+                "おそわれて",
+                "とらわれて",
+                "うたわれて"
+              ]
+            },
+            {
+              "question1": "以前は静かな町だったのに、最近は",
+              "question2": "物騒",
+              "question3": "な事件が多くなった。",
+              "answer": 2,
+              "answerToChoose": ["ぶっぞう", "ぶっそう", "ぶつそう", "ぶつぞう"]
+            },
+            {
+              "question1": "インフルエンザで死亡率が低い理由の1つに、国民の",
+              "question2": "衛生",
+              "question3": "知識の高さがあげられる。",
+              "answer": 3,
+              "answerToChoose": ["ええせい", "えいぜい", "えいせい", "ええぜい"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題２.青い字の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "節約生活に疲れた消費者に安いだけの商品は",
+              "question2": "あきられて",
+              "question3": "きた。",
+              "answer": 2,
+              "answerToChoose": [
+                "飯きられて",
+                "飽きられて",
+                "館きられて",
+                "飲きられて"
+              ]
+            },
+            {
+              "question1": "「源氏物語」は日本の代表的な",
+              "question2": "こてん",
+              "question3": "文学だ。",
+              "answer": 4,
+              "answerToChoose": ["古展", "箇典", "個展", "古典"]
+            },
+            {
+              "question1": "自分の欠点を",
+              "question2": "なげいて",
+              "question3": "ばかりいないで、長所を伸ばすべきだ。",
+              "answer": 2,
+              "answerToChoose": ["難いて", "嘆いて", "喝いて", "漢いて"]
+            },
+            {
+              "question1": "ストレスの多い現代、うつ病を病む人が",
+              "question2": "げきぞう",
+              "question3": "している。",
+              "answer": 1,
+              "answerToChoose": ["激増", "激象", "劇増", "劇象"]
+            },
+            {
+              "question1": "高い技術力のおかげで海水が",
+              "question2": "たんすい",
+              "question3": "化されて、飲めるようになった。",
+              "answer": 3,
+              "answerToChoose": ["単水", "短水", "淡水", "探水"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題３.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "自分の手で文字を書くと記録（　　　　　）が」より高まるそうだ。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["質", "化", "力", "性"]
+            },
+            {
+              "question1": "この絵は彼の代表（　　　　　）である。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["品", "作", "物", "者"]
+            },
+            {
+              "question1": "ここは高山植物の保護（　　　　　）です。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["区", "場", "所", "域"]
+            },
+            {
+              "question1": "プロ野球の公式（　　　　）が始まるところだ。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["軍", "陣", "戦", "権"]
+            },
+            {
+              "question1": "この薬は胃を荒らす（　　　　）作用がある。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["悪", "副", "複", "反"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題4.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "「歴史は繰り返す」と言うが、同じように繰り返されることは（　　　　）にない。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["眼中", "滅多", "まれ", "たま"]
+            },
+            {
+              "question1": "洗濯機がこう（　　　　　）故障するのでは、買い替えるしかない。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["それぞれ", "しばしば", "ぞくぞく", "とうとう"]
+            },
+            {
+              "question1": "この地域は一人暮らしのお年寄りが多く、（　　　　　）に不安がある。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": [
+                "セキュリティー",
+                "コンディション",
+                "オペレーション",
+                "コンタクト"
+              ]
+            },
+            {
+              "question1": "私の夢は、グローバルな（　　　　　）で活躍することです。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["信頼", "資本", "舞台", "現実"]
+            },
+            {
+              "question1": "この家の建て方は、この地方（　　　　　）のものです。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["独特", "格別", "特例", "特殊"]
+            },
+            {
+              "question1": "屋根を（　　　　　）するついでに、太陽光発電システムを取り入れることにした。",
+              "question2": "",
+              "question3": "",
+              "answer": 4,
+              "answerToChoose": ["調節", "管理", "修正", "修繕"]
+            },
+            {
+              "question1": "新聞の料理記事の（　　　　　）を献立の参考にしている。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["切り抜き", "切り取り", "書き取り", "選び抜き"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題5.（　　　　　）の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "この私鉄は次の駅でJRと",
+              "question2": "連絡している",
+              "question3": "。",
+              "answer": 4,
+              "answerToChoose": [
+                "乗り換えになる",
+                "交差している",
+                "一体化している",
+                "つながっている"
+              ]
+            },
+            {
+              "question1": "選挙の予想が",
+              "question2": "外れた",
+              "question3": "。",
+              "answer": 3,
+              "answerToChoose": [
+                "騒がれた",
+                "おかしかった",
+                "当たらなかった",
+                "難しかった"
+              ]
+            },
+            {
+              "question1": "近道したのに",
+              "question2": "かえって",
+              "question3": "時間がかかった。",
+              "answer": 3,
+              "answerToChoose": ["非常に", "攻めて", "逆に", "多少"]
+            },
+            {
+              "question1": "はっきり",
+              "question2": "意見を申し上げるなら、その案に反対です。",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["率直に", "適当に", "簡単に", "自由に"]
+            },
+            {
+              "question1": "上司が休日出勤して、部下の遅れた仕事を",
+              "question2": "カバーした",
+              "question3": "。",
+              "answer": 4,
+              "answerToChoose": ["進めた", "終わらせた", "引き受けた", "捕った"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "link": "choukuzen-taisaku-n2",
+      "testName": "日本語能力試験直前対策",
+      "testSerial": "第2回",
+      "category": "Test",
+      "testQuestionAll": [
+        {
+          "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "ネット環境が整えばオフィスに",
+              "question2": "縛られる",
+              "question3": "ことなく、どこにいても仕事ができる。",
+              "answer": 4,
+              "answerToChoose": [
+                "はめられる",
+                "おさめられる",
+                "とられる",
+                "しばられる"
+              ]
+            },
+            {
+              "question1": "電車の中は、たくさんの子供が乗っていて",
+              "question2": "騒々",
+              "question3": "しかった。",
+              "answer": 1,
+              "answerToChoose": ["そうぞう", "ずうずう", "あらあら", "いまいま"]
+            },
+            {
+              "question1": "我が社は今年度から面接の回数を増やして、知識より人物",
+              "question2": "重視",
+              "question3": "で社員を採用する。",
+              "answer": 4,
+              "answerToChoose": ["ちょうし", "ちょうじ", "しゅうじ", "じゅうし"]
+            },
+            {
+              "question1": "お買い物でためたポイントは、商品券に",
+              "question2": "交換",
+              "question3": "できます。",
+              "answer": 1,
+              "answerToChoose": ["こうかん", "ごうがん", "こうがん", "ごうかん"]
+            },
+            {
+              "question1": "スーパーでは商品の",
+              "question2": "包装",
+              "question3": "を少なくする活動が進んでいる。",
+              "answer": 3,
+              "answerToChoose": ["ほうぞう", "ぼうそう", "ほうそう", "ぼうぞう"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題２.青い字の言葉を漢字で書くとき、最もよいものを1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "太陽エネルギーが生み出す熱は",
+              "question2": "だんぼう",
+              "question3": "に、光は電気に利用できる。",
+              "answer": 1,
+              "answerToChoose": ["暖房", "暖冒", "断房", "断冒"]
+            },
+            {
+              "question1": "あの二人は夫婦だと",
+              "question2": "かんちがい",
+              "question3": "している人が多い。",
+              "answer": 1,
+              "answerToChoose": ["勘違い", "肝違い", "感違い", "塞違い"]
+            },
+            {
+              "question1": "常識に",
+              "question2": "てらして",
+              "question3": "考えてみれば、君が今、何をすべきかわかるだろう。",
+              "answer": 3,
+              "answerToChoose": ["焦らして", "燃らして", "照らして", "烈らして"]
+            },
+            {
+              "question1": "このあたりは地震で",
+              "question2": "じばん",
+              "question3": "が沈んでしまった。",
+              "answer": 4,
+              "answerToChoose": ["地敷", "地版", "地番", "地盤"]
+            },
+            {
+              "question1": "工場の事故で有害物質が流れ、川が",
+              "question2": "おせん",
+              "question3": "された。",
+              "answer": 3,
+              "answerToChoose": ["汚洗", "御染", "汚染", "冒染"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題３.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "インドのガンジーは（　　　　　）暴力を信条に独立運動を指導した。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["無", "反", "非", "不"]
+            },
+            {
+              "question1": "山田氏は、個性（　　　　　）俳優として活躍している。",
+              "question2": "",
+              "question3": "",
+              "answer": 4,
+              "answerToChoose": ["人", "風", "流", "派"]
+            },
+            {
+              "question1": "全社員に職場の改善（　　　　　）を聞く。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["点", "見", "場", "所"]
+            },
+            {
+              "question1": "自然（　　　　　）の法則に逆らえない。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["方", "側", "界", "世"]
+            },
+            {
+              "question1": "子供たちは（　　　　　）年齢とあって、すぐに仲よくなった。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["近", "同", "何", "当"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題4.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "サークルのホームページに「イベント情報」を追加し、（　　　　　）した。",
+              "question2": "",
+              "question3": "",
+              "answer": 4,
+              "answerToChoose": ["制作", "工事", "閉鎖", "更新"]
+            },
+            {
+              "question1": "最も（　　　　　）な成績の学生には、大学から学長賞が贈られます。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["上等", "優秀", "有効", "優良"]
+            },
+            {
+              "question1": "買い物という日常的な行いが、消費を（　　　　　）して世の中を元気にする。",
+              "question2": "",
+              "question3": "",
+              "answer": 4,
+              "answerToChoose": ["重視", "指導", "活用", "刺激"]
+            },
+            {
+              "question1": "バスがなかなか来なくて、持っている人たちは次第に（　　　　　）し始めた。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["いらいら", "ぶつぶつ", "のろのろ", "まごまご"]
+            },
+            {
+              "question1": "日本の寿司を（　　　　　）した洋風の寿司が海外で人気だ。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": [
+                "アプローチ",
+                "アレンジ",
+                "アシスト",
+                "アドバイス"
+              ]
+            },
+            {
+              "question1": "幸福が（　　　　　）に続くことはありえないのだろうか。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["長期", "不変", "永遠", "不滅"]
+            },
+            {
+              "question1": "あの大企業の社長は自分にはこれといった才能はないと（　　　　　）している。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["謙遜", "遠慮", "配慮", "恐縮"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題5.（　　　　　）の言葉に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "試合に負けた悔しさを",
+              "question2": "味わった",
+              "question3": "。",
+              "answer": 4,
+              "answerToChoose": ["記録した", "発表した", "重視した", "経験した"]
+            },
+            {
+              "question1": "旅先で",
+              "question2": "偶然",
+              "question3": "昔の友人に出会った。",
+              "answer": 2,
+              "answerToChoose": [
+                "約束通り",
+                "思いがけなく",
+                "確かに",
+                "都合よく"
+              ]
+            },
+            {
+              "question1": "工場の",
+              "question2": "単調な",
+              "question3": "作業にあきてきた。",
+              "answer": 1,
+              "answerToChoose": [
+                "変化がない",
+                "よく変わる",
+                "手間がかかる",
+                "休みがない"
+              ]
+            },
+            {
+              "question1": "負けて困っているところに、",
+              "question2": "強力",
+              "question3": "な味方が現れた。",
+              "answer": 3,
+              "answerToChoose": [
+                "のんびりした",
+                "予想しない",
+                "頼りになる",
+                "元気のよい"
+              ]
+            },
+            {
+              "question1": "彼は",
+              "question2": "バイリンガルだ",
+              "question3": "。",
+              "answer": 3,
+              "answerToChoose": [
+                "国際性がある",
+                "物知りだ",
+                "二ヵ国語を話す",
+                "二重国籍だ"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "test": [
     {
       "id": "power-drill-vocabulary-n2",
@@ -174,6 +682,22 @@
         },
         {
           "link": "power-drill-vocabulary-n2",
+          "id": "part-2",
+          "name": "第２回"
+        }
+      ]
+    },
+    {
+      "id": "choukuzen-taisaku-n",
+      "testName": "日本語能力試験直前対策",
+      "testData": [
+        {
+          "link": "choukuzen-taisaku-n",
+          "id": "part-1",
+          "name": "第１回"
+        },
+        {
+          "link": "choukuzen-taisaku-n",
           "id": "part-2",
           "name": "第２回"
         }
@@ -198,7 +722,7 @@
           "name": "日本語能力試験直前対策",
           "category": "Test",
           "modules": 15,
-          "link": "/",
+          "link": "/tests/choukuzen-taisaku-n2",
           "img": "https://images-fe.ssl-images-amazon.com/images/I/91+Q9oJdyIL._AC_UL600_SR600,600_.jpg"
         },
         {
