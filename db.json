@@ -692,12 +692,12 @@
       "testName": "日本語能力試験直前対策",
       "testData": [
         {
-          "link": "choukuzen-taisaku-n",
+          "link": "choukuzen-taisaku-n2",
           "id": "part-1",
           "name": "第１回"
         },
         {
-          "link": "choukuzen-taisaku-n",
+          "link": "choukuzen-taisaku-n2",
           "id": "part-2",
           "name": "第２回"
         }
