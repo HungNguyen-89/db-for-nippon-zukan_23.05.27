@@ -8,7 +8,7 @@
       "category": "Test",
       "testQuestionAll": [
         {
-          "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestionTitle": "問題１.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
               "question1": "私は速くから彼女が働く",
@@ -34,7 +34,7 @@
           ]
         },
         {
-          "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestionTitle": "問題２.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
               "question1": "では、明日の３時にそちらに",
@@ -58,6 +58,102 @@
               "answerToChoose": ["周固", "周囲", "週固", "週囲"]
             }
           ]
+        },
+
+        {
+          "testQuestionTitle": "問題３.(     )に入れるのに最もよいものを、1・2・3・4から１つ選びなさい",
+          "testQuestions": [
+            {
+              "question1": "この計画が失敗したのは、リーダーである私の（　　　　）です。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["義務", "成果", "責任", "任務"]
+            },
+            {
+              "question1": "いくら忙しくても、（　　　　　）日曜日くらいは休みたい。",
+              "question2": "",
+              "question3": "",
+              "answer": 1,
+              "answerToChoose": ["せめて", "やっと", "けっこう", "どうやら"]
+            },
+            {
+              "question1": "会議が始まるまで30分以上あるから、新聞でも読んで時間を（　　　　　）。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["もとう", "かけよう", "つぶそう", "とめよう"]
+            },
+            {
+              "question1": "明日、来週の旅行の（　　　　　）をしましょう。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": [
+                "見合い",
+                "言い合い",
+                "打ち合わせ",
+                "待ち合わせ"
+              ]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題４.(     )に入れるのに最もよいものを、1・2・3・4から１つ選びなさい",
+          "testQuestions": [
+            {
+              "question1": "この問題を解くのに（　　　　　）一日かかった。",
+              "question2": "",
+              "question3": "",
+              "answer": 4,
+              "answerToChoose": ["完", "全", "本", "丸"]
+            },
+            {
+              "question1": "履歴（　　　　　）にはかならず写真を貼ってください。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["紙", "書", "証", "状"]
+            },
+            {
+              "question1": "ボランティア活動に積極（　　　　　）に参加している。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["気", "感", "性", "的"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題５.青いの言葉に意味が最も近いものを、1・2・3・4から１つ選びなさい",
+          "testQuestions": [
+            {
+              "question1": "この寒さだと",
+              "question2": "おそらく",
+              "question3": "明日は雪が降るだろう。",
+              "answer": 1,
+              "answerToChoose": ["たぶん", "絶対に", "次第に", "たしかに"]
+            },
+            {
+              "question1": "",
+              "question2": "やむをえない",
+              "question3": "事情で大学をやめることになった。",
+              "answer": 3,
+              "answerToChoose": [
+                "くやしい",
+                "はずかしい",
+                "しかたがない",
+                "もったいない"
+              ]
+            },
+            {
+              "question1": "デパートで小学校の同級生に",
+              "question2": "ばったり",
+              "question3": "会った。",
+              "answer": 1,
+              "answerToChoose": ["偶然", "自然に", "都合よく", "久しぶりに"]
+            }
+          ]
         }
       ]
     },
@@ -70,7 +166,7 @@
       "testQuestionAll": [
         {
           "type": "A",
-          "testQuestionTitle": "問題1.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestionTitle": "問題１.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
               "question": "台風が関東地方に",
@@ -102,7 +198,7 @@
         },
         {
           "type": "A",
-          "testQuestionTitle": "問題2.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestionTitle": "問題２.青い字の言葉の読み方として最もよいものを、1・2・3・4から一つ選びなさい。",
           "testQuestions": [
             {
               "question1": "すみません、この",
@@ -156,6 +252,59 @@
                 "サンプル",
                 "パンフレット"
               ]
+            }
+          ]
+        },
+        {
+          "type": "C",
+          "testQuestionTitle": "問題４.（　　　　　）に入れるに最もよいものを、1・2・3・4から一つ選びなさい。",
+          "testQuestions": [
+            {
+              "question1": "コンピューターが突然、原因不明の（　　　　）作動を起こした。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["不", "違", "誤", "失"]
+            },
+            {
+              "question1": "作曲（　　　　）になるため、音楽大学に進んだ。",
+              "question2": "",
+              "question3": "",
+              "answer": 3,
+              "answerToChoose": ["手", "者", "家", "師"]
+            },
+            {
+              "question1": "彼はまじめで責任（　　　　）が強い。",
+              "question2": "",
+              "question3": "",
+              "answer": 2,
+              "answerToChoose": ["観", "感", "心", "性"]
+            }
+          ]
+        },
+        {
+          "testQuestionTitle": "問題５.青いの言葉に意味が最も近いものを、1・2・3・4から１つ選びなさい",
+          "testQuestions": [
+            {
+              "question1": "そのニュースは",
+              "question2": "たちまち",
+              "question3": "世界中に広まった。",
+              "answer": 1,
+              "answerToChoose": ["すぐに", "ついに", "だんだん", "ようやく"]
+            },
+            {
+              "question1": "彼はノートに",
+              "question2": "せっせと",
+              "question3": "何かを書いていた。",
+              "answer": 2,
+              "answerToChoose": ["速く", "熱心に", "上手に", "楽しそうに"]
+            },
+            {
+              "question1": "課長は今",
+              "question2": "ミーティング",
+              "question3": "中で、ここにはおりません。",
+              "answer": 1,
+              "answerToChoose": ["会議", "出張", "研修", "休暇"]
             }
           ]
         }
@@ -399,9 +548,9 @@
               "answerToChoose": ["非常に", "攻めて", "逆に", "多少"]
             },
             {
-              "question1": "はっきり",
-              "question2": "意見を申し上げるなら、その案に反対です。",
-              "question3": "",
+              "question1": "",
+              "question2": "はっきり",
+              "question3": "意見を申し上げるなら、その案に反対です。",
               "answer": 1,
               "answerToChoose": ["率直に", "適当に", "簡単に", "自由に"]
             },
@@ -674,6 +823,7 @@
     {
       "id": "power-drill-vocabulary-n2",
       "testName": "パワードリル文字・語彙",
+      "category": "de-thi-n2",
       "testData": [
         {
           "link": "power-drill-vocabulary-n2",
@@ -690,6 +840,7 @@
     {
       "id": "choukuzen-taisaku-n2",
       "testName": "日本語能力試験直前対策",
+      "category": "de-thi-n2",
       "testData": [
         {
           "link": "choukuzen-taisaku-n2",
